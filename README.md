@@ -1,6 +1,6 @@
-| -------- | --- |
-| *Nama* | Ferly ardiansyah |
-| *NIM* | 312310448 |
+| ------- | ---------------- |
+| *Nama*  | Ferly ardiansyah |
+| *NIM*   | 312310448 |
 | *Kelas* | TI.23.A.5 |
 
 ![alttext](Screenshot-1.jpeg)
