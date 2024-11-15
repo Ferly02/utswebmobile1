@@ -1,6 +1,7 @@
-|nama    :ferly ardiansyah|
-|kelas   :TI 23 A5|
-|NIM     312310448|
+| -------- | --- |
+| *Nama* | Ferly ardiansyah |
+| *NIM* | 312310448 |
+| *Kelas* | TI.23.A.5 |
 
 ![alttext](Screenshot-1.jpeg)
 Tampilan Awal: Memuat tampilan awal aplikasi dengan ikon jam besar di tengah.
