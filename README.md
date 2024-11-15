@@ -1,4 +1,4 @@
-| **Kolom** | **Informasi**        |
+
 |-----------|-----------------------|
 | *Nama*    | Ferly ardiansyah      |
 | *NIM*     | 312310448             |
