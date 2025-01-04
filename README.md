@@ -7,10 +7,10 @@
 
 
 
-Aplikasi alarm 
+*Aplikasi alarm* 
 Aplikasi alarm adalah perangkat lunak yang dirancang untuk membantu pengguna mengatur pengingat atau peringatan pada waktu tertentu. Aplikasi ini biasanya digunakan di perangkat seperti ponsel, tablet, atau jam pintar.
 
-Tujuan Aplikasi Alarm
+*Tujuan Aplikasi Alarm*
 Manajemen Waktu:      Membantu pengguna mengatur waktu dengan lebih baik, seperti bangun tidur tepat waktu, memulai aktivitas, atau menghadiri jadwal penting.
 
 Pengingat:            Mengingatkan pengguna akan tugas, pertemuan, acara, atau kegiatan penting.
