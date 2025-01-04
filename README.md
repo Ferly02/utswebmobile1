@@ -7,7 +7,7 @@
 
 
 
-<b>*Aplikasi alarm*<b>
+<p>Aplikasi alarm<p>
 Aplikasi alarm adalah perangkat lunak yang dirancang untuk membantu pengguna mengatur pengingat atau peringatan pada waktu tertentu. Aplikasi ini biasanya digunakan di perangkat seperti ponsel, tablet, atau jam pintar.
 
 *Tujuan Aplikasi Alarm*
